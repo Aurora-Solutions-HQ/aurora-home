@@ -1878,7 +1878,7 @@ video {
 .banner-area3 .banner-wrapper .banner-video-area .video-area::after {
   content: "";
   background: rgba(29, 29, 29, 0.7);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(170, 75, 255, 0.2);
   position: absolute;
   left: 0;
   top: 0;
